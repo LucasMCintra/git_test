@@ -1,0 +1,2 @@
+Este arquivo é um teste.
+Aprendendo mais sobre git e GitHub.
